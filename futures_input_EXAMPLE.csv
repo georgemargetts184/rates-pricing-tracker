@@ -1,0 +1,5 @@
+# EXAMPLE ONLY: made-up prices and dates. Replace with real meeting dates and ZQ prices
+# (e.g. from CME FedWatch / a Bloomberg screen) before using.
+meeting_date,contract_price
+2026-12-16,95.8125
+2027-01-27,95.6000
